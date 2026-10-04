@@ -1,0 +1,22 @@
+{
+  "name": "Arun Sharma",
+  "facts": [
+    {
+      "key": "age",
+      "value": "70"
+    },
+    {
+      "key": "gender",
+      "value": "Male"
+    },
+    {
+      "key": "condition",
+      "value": "chronic kidney disease"
+    },
+    {
+      "key": "relationship",
+      "value": "father of the user"
+    }
+  ],
+  "interactions": []
+}

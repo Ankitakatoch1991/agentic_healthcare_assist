@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Dr. Meera Iyer",
+    "specialty": "Nephrology",
+    "slots": [
+      "2026-10-05T09:00:00",
+      "2026-10-06T14:00:00",
+      "2026-10-08T11:00:00"
+    ]
+  },
+  {
+    "name": "Dr. Arvind Rao",
+    "specialty": "Nephrology",
+    "slots": [
+      "2026-10-05T15:30:00",
+      "2026-10-07T10:00:00"
+    ]
+  },
+  {
+    "name": "Dr. Priya Nair",
+    "specialty": "Cardiology",
+    "slots": [
+      "2026-10-06T09:30:00",
+      "2026-10-09T13:00:00"
+    ]
+  },
+  {
+    "name": "Dr. Sanjay Kapoor",
+    "specialty": "General Medicine",
+    "slots": [
+      "2026-10-04T10:00:00",
+      "2026-10-07T16:00:00",
+      "2026-10-10T09:00:00"
+    ]
+  },
+  {
+    "name": "Dr. Helen Cho",
+    "specialty": "Endocrinology",
+    "slots": [
+      "2026-10-08T15:00:00",
+      "2026-10-09T11:30:00"
+    ]
+  }
+]
