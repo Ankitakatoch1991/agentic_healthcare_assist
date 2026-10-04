@@ -1,0 +1,42 @@
+[
+  {
+    "query": "Summarize the medical history of Ramesh Kulkarni.",
+    "reference": "Ramesh Kulkarni has essential hypertension (I10). He takes telmisartan 40 mg daily, his blood pressure was 130/84, and he was asked to return in 6 months with lifestyle changes and routine labs."
+  },
+  {
+    "query": "What diagnosis and plan are recorded for Anjali Mehra?",
+    "reference": "Anjali Mehra was diagnosed with an upper respiratory infection (J06.9) after a dry cough and mild fever. The plan was antihistamines, fluids, rest, and follow-up in 5 days if she did not improve."
+  },
+  {
+    "query": "Summarize David Thompson's diabetes follow-up.",
+    "reference": "David Thompson has type 2 diabetes mellitus (E11.9) with increased thirst and urination. The plan increased metformin to 1000 mg twice daily, ordered HbA1c and a lipid profile, and scheduled a nutritionist with return in 3 months."
+  },
+  {
+    "query": "What does the chart say about Rahul Negi?",
+    "reference": "Rahul Negi is a 31-year-old man from Chattarpur. The spreadsheet summary says he is fit and healthy, and no diagnosis or medication is recorded."
+  },
+  {
+    "query": "What past conditions are documented for Rebeca Nagle?",
+    "reference": "Rebeca Nagle is a 36-year-old woman with a past history of PCOS and migraines. Her medications include magnesium, vitamin B2, and a combined oral contraceptive. She had no acute concerns at the 9/7/2022 visit."
+  },
+  {
+    "query": "Summarize the history of Arun Sharma.",
+    "reference": "Arun Sharma is a 70-year-old man, the father of the user, with chronic kidney disease. That note was added because the original EHR files did not include him."
+  },
+  {
+    "query": "Summarize current treatment approaches for chronic kidney disease.",
+    "reference": "Chronic kidney disease care commonly includes blood pressure control, managing diabetes if present, medicines such as ACE inhibitors or ARBs when appropriate, diet changes such as less sodium, and dialysis or transplant if the kidneys fail."
+  },
+  {
+    "query": "What are the usual treatments for essential hypertension?",
+    "reference": "Hypertension treatment usually combines lifestyle changes with medicines such as ACE inhibitors, ARBs, calcium channel blockers, or thiazide diuretics."
+  },
+  {
+    "query": "How is type 2 diabetes typically managed?",
+    "reference": "Type 2 diabetes is managed with healthy eating, physical activity, blood sugar and A1C monitoring, and medicines. Metformin is a common first medicine."
+  },
+  {
+    "query": "What self-care is advised for an upper respiratory infection?",
+    "reference": "Upper respiratory infections are often viral. Usual self-care is rest, fluids, and symptom relief. Antibiotics are not routinely needed."
+  }
+]
